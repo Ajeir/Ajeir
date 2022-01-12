@@ -3,7 +3,7 @@
 <br>
 
 <p>
-   <img src="https://github.com/Ajeir/Ajeir/blob/main/banner_brand4.jpg" width="1280" height="700">
+   <img src="https://github.com/Ajeir/Ajeir/blob/main/banner_brand4.jpg" width="1280" height="200">
    </a>
 
    <br>
