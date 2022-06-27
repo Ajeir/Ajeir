@@ -17,7 +17,7 @@
 
 <h3>👨🏿‍💻🏻 &nbsp;Me </h3>
 
-- 🎓 Attending UWI MONA 
+- 🎓 Self Taught 
 - :rocket: Blockchain development & Artificial Intelligence
 - 💼 &nbsp; I live in the Caribbean 🌴
 
